@@ -33,6 +33,7 @@ require 'ruby2d/cli/platform'
   'music',
   'texture',
   'vertices',
+  'composition',
   '../ruby2d'
 ]
 

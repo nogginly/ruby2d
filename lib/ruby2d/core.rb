@@ -28,5 +28,6 @@ unless RUBY_ENGINE == 'mruby'
   require 'ruby2d/music'
   require 'ruby2d/texture'
   require 'ruby2d/vertices'
+  require 'ruby2d/composition'
   require 'ruby2d/ruby2d' # load native extension
 end
